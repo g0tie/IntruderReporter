@@ -6,6 +6,11 @@ Have you ever wonder when you lock your computer, who tried to touched it or to 
 
 IntruderReporter is a program for Windows 10 - 11 that lock your workstation and log keyboard entries and usb devices inserts until you unlock your session.
 
+# Download
+
+Go to releases page, download the last version here: 
+[Download (Windows)](https://github.com/g0tie/IntruderReporter/release)
+
 # Stack
 
 This software was built with C# on .Net platorm as a WPF desktop application.
