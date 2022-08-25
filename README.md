@@ -9,7 +9,7 @@ IntruderReporter is a program for Windows 10 - 11 that lock your workstation and
 # Download & Install
 
 - Go to releases page, download the last version here: 
-[Download (Windows)](https://github.com/g0tie/IntruderReporter/release)
+[Download (Windows)](https://github.com/g0tie/IntruderReporter/releases)
 - Uncompress zip file then click on the executable to launch the program.
 
 
